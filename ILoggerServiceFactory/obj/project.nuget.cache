@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "koFmw2JoRxlyhow6dPt7C+5GwxwhCyozLp4r+VysxFEff3C+yW7raCZg/N48E8GAeJjS57D6WHA0FzuWIP6UvQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\Desktop\\mizrachi\\‏‏LogManager\\ILoggerServiceFactory\\LoggerServiceFactory.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.9\\microsoft.extensions.dependencyinjection.3.1.9.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.9\\microsoft.extensions.dependencyinjection.abstractions.3.1.9.nupkg.sha512"
+  ],
+  "logs": []
+}
